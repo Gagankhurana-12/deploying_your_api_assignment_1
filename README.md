@@ -38,9 +38,7 @@ npm install dotenv
 Create a file named `.env` in your project directory and add the following variables:
 
 ```plaintext
-API_KEY=
-SERVER_SECRET=
-IS_KALVIAN=true
+
 ```
 
 Fill in the values for `API_KEY` and `SERVER_SECRET` as needed.
